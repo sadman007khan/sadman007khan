@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadman Khan</h1>
 <h3 align="center">I am a Software Engineering graduate who is now doing Artificial Intelligence research. I am eager to work in the field of Artificial Intelligence and Data Science.</h3>
 
-<p align="left"> <a href="https://twitter.com/sadman khan" target="blank"><img src="https://img.shields.io/twitter/follow/sadman khan?logo=twitter&style=for-the-badge" alt="sadman khan" /></a> </p>
-
 - 🔭 I’m currently working on **Artificial Intelligence Research on rice leaf disease analysis**
 
 - 🌱 I’m currently learning **Machine Learning, Deep learning,Data Science**
@@ -13,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sadman khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadman khan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sadman-khan-2180b1188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadman-khan-2180b1188" height="30" width="40" /></a>
 <a href="https://kaggle.com/sadmankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sadmankhan" height="30" width="40" /></a>
 <a href="https://instagram.com/sadman.khan.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadman.khan.007" height="30" width="40" /></a>
